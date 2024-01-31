@@ -1,0 +1,24 @@
+﻿body {
+    text-decoration : auto;
+    font-size:15px;
+}
+div {
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid black;
+    width: 500px;
+    height: 350px;
+    background-color:aqua;
+}
+#characterInput {
+    font-size: 30px;
+    width: 300px;
+    border: 1px solid;
+    height: 30px;
+}
+#characterCount {
+     height: 30px;
+    width: 400px;
+    font-size: 20px;
+}
